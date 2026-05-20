@@ -1,0 +1,5 @@
+chromadb
+psycopg2-binary
+redis
+python-dotenv
+sentence-transformers
